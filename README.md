@@ -1,4 +1,4 @@
-# SomeDigitalCircuits
+# Digital Circuits - Implementations
 Digital Circuits made for some exercises of the Digital Circuits Course of the Brazilian platform [Me Salva!](https://mesalva.com/engenharia/eng-eletrica/circuitos-digitais). The circuits have been implemented on Logisim.
 
 ## Implemented Circuits
